@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full Stack Developement
 - 🌱 I’m currently learning Devops
 - [📫 Connect with me 💬](https://www.linkedin.com/in/nishanth-b/)
-- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNishanthbnish&label=Visitors&labelColor=%2337d67a&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNishanthbnish)
+- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNishanthbnish&label=Visitors&countColor=%232ccce4&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNishanthbnish)
 <!---
 Nishanthbnish/Nishanthbnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
