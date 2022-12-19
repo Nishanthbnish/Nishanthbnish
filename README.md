@@ -1,5 +1,6 @@
 - # 👋 Hi, I’m [Nishanth Nish](mailto:nishanthbangera107@gmail.com)
-![bird-s-eye-photography-of-mountain-1624496](https://user-images.githubusercontent.com/43651531/199888159-f10c53fd-21f0-4f94-8f0b-69993cd15523.jpg)
+
+![final-dl beatsnoop com-XJV1KdGSWe](https://user-images.githubusercontent.com/43651531/208462608-243efef0-65c7-402b-8288-feabe6f94881.jpg)
 
 - 👀 I’m interested in Full Stack Developement
 - 🌱 I’m currently learning Devops
